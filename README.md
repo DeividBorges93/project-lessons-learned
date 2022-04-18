@@ -11,9 +11,9 @@
     - [Lista de requisitos](#lista-de-requisitos)
     - [1. Adicionada uma cor de fundo específica para a página](#1-adicionada-uma-cor-de-fundo-específica-para-a-página)
     - [2. Adicionada uma barra superior com um título](#2-adicionada-uma-barra-superior-com-um-título)
-    - [3. Adicionada uma foto sua à página](#3-adicionada-uma-foto-sua-à-página)
+    - [3. Adicionada uma foto minha à página](#3-adicionada-uma-foto-minha-à-página)
     - [4. Adicionada uma lista de lições aprendidas à página](#4-adicionada-uma-lista-de-lições-aprendidas-à-página)
-    - [5. Criado uma lista de lições que ainda desejo aprender para a página](#5-criado-uma-lista-de-lições-que-ainda-desejo-aprender-para-a-página)
+    - [5. Criada uma lista de lições que ainda desejo aprender para a página](#5-criada-uma-lista-de-lições-que-ainda-desejo-aprender-para-a-página)
     - [6. Adicionado um rodapé para a página](#6-adicionado-um-rodapé-para-a-página)
     - [7. Inserido um link externo na página](#7-inserido-um-link-externo-na-página)
     - [8. Criado um artigo sobre meu aprendizado](#8-criado-um-artigo-sobre-meu-aprendizado)
@@ -36,7 +36,9 @@ Neste projeto, aprendi:
 
 Um site que contém uma série de informações sobre o que eu aprendi na [Trybe](https://github.com/betrybe) ao longo dos três primeiros blocos. O site está com elementos posicionados e estilizados, e além disto, contém semântica apropriada para que seja acessível e melhor ranqueado.
 
-### Teste você mesmo
+---
+
+## Teste você mesmo
 
 1. Clone o repositório
   * `git@github.com:DeividBorges93/project-lessons-learned.git`.
@@ -50,8 +52,6 @@ Um site que contém uma série de informações sobre o que eu aprendi na [Trybe
 
 ## Requisitos
 
-### Lista de requisitos
-
 ### 1. Adicionada uma cor de fundo específica para a página
 
 cor de fundo: rgb(253, 251, 251)
@@ -60,7 +60,7 @@ cor de fundo: rgb(253, 251, 251)
 
 A barra possui o ID "cabecalho" e é fixa no topo da página com a propriedade top tendo **0**. O título está dentro da barra e é um elemento **h1** com ID "titulo".
 
-### 3. Adicionada uma foto sua à página
+### 3. Adicionada uma foto minha à página
 
 A foto é inserida utilizando uma tag **img** com o ID "minha_foto".
 
@@ -68,7 +68,7 @@ A foto é inserida utilizando uma tag **img** com o ID "minha_foto".
 
 A lista possui **10** itens, é numerada e possui o ID "licoes_aprendidas".
 
-### 5. Criado uma lista de lições que ainda desejo aprender para a página
+### 5. Criada uma lista de lições que ainda desejo aprender para a página
 
 A lista possui **10** itens, é numerada e possui o ID "licoes_a_aprender".
 
